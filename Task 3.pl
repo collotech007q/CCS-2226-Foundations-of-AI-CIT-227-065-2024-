@@ -1,3 +1,9 @@
+% Name:   Collins Kipkirui
+% Reg No: CIT-227-065/2024
+% Unit:   Foundations of AI
+% Course: Software Engineering
+
+
 % --- Facts (Base relationships) ---
 % parent(Parent, Child)
 parent(james, robert).
