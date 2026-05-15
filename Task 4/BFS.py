@@ -1,3 +1,8 @@
+#Name:   Collins Kipkirui
+#Reg No: CIT-227-065/2024
+#Unit:   Foundations of AI
+#Course: Software Engineering
+
 from collections import deque
 
 # Graph represented as an adjacency list 
